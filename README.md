@@ -1,6 +1,6 @@
 # Traffic Sign Classification
 
-This project aims to classify  Traffic Sign Classification
+This project aims to classify Traffic Sign Images
 
 This project aims to classify traffic signs using deep learning techniques. It utilizes TensorFlow and a convolutional neural network (CNN) to train a model that can predict the type of traffic sign from input images.
 
